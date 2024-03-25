@@ -1,0 +1,9 @@
+notebook_1.ipynb : code Python permettant l'import des fichiers .xlsx, leur nettoyage et effectuant la régression linéaire pour combler les donnees manquantes
+
+notebook_2.ipynb : code Python pour l'ACP et le k-means
+
+notebook_3.ipynb : code Python pour la régression logistique
+
+notebook_4.ipynb : code Python pour le détecteur final de faux billets
+
+functions.py : fichier de fonctions auxquelles les notebooks Jupyter font appel
